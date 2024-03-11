@@ -1,2 +1,2 @@
 # Multi-Organ-Segmentation
-Multi Organ Segmentation using Mask R CNN
+Multi Organ Segmentation using SegResNet (MONAI)
